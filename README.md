@@ -76,9 +76,11 @@ The core logic of this app — **filter data + send automated emails** — makes
 ![Home Screen](https://github.com/GarryRoque/powerapps-event-rsvp-mailer/blob/main/Screenshots/PowerApps.PNG) 
 *Home screen with organizer/location-based mailer options*
 
-![Filtering Screen](screenshots/filtering_screen.png)  
+![Filtering Screen](https://github.com/GarryRoque/powerapps-event-rsvp-mailer/blob/main/Screenshots/PowerApp2.PNG)  
 *Filtering attendees and sending personalized RSVP reminders*
 
+![Outlook Screen](https://github.com/GarryRoque/powerapps-event-rsvp-mailer/blob/main/Screenshots/PowerApp2.PNG)  
+*Mails sent to myself for now as we used dummy emails. the mails can go to dynamic emails*
 ---
 
 ## 👤 Author
@@ -87,13 +89,9 @@ The core logic of this app — **filter data + send automated emails** — makes
 Business Intelligence Analyst  
 📍 Exeter, UK  
 📧 garryfernandes2@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/garryfernandes2)
+🔗 [LinkedIn](https://www.linkedin.com/in/garryfernandes)
 
----
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
