@@ -60,19 +60,65 @@ The core logic of this app — **filter data + send automated emails** — makes
 
 ## 📁 Project Structure
 
-powerapps-event-rsvp-mailer/
-├── powerapp/
-│   └── event_mailer.msapp              # Exported Power App
-├── powerautomate/
-│   └── send_rsvp_reminder_flow.zip     # Exported Power Automate Flow
-├── powerbi/
-│   └── event_rsvp_data_sample.pbix     # Sample Power BI report (if built)
-├── data/
-│   └── event_rsvp_data_sample.csv      # Sample dataset
-├── screenshots/
-│   └── home_screen.png                 # Images of the UI
-│   └── filtering_screen.png
-├── README.md
-├── LICENSE
+---
+
+## 📦 Features
+
+- Filter email targets by Event Organizer or Location
+- Fetch data dynamically from Power BI datasets
+- Personalized Outlook emails using Power Automate
+- Exportable and reusable across domains
+
+---
+
+## 🚀 Getting Started
+
+### 1. Power App
+- Open Power Apps Studio
+- Click on **Apps → Import Canvas App**
+- Upload `event_mailer.msapp`
+- Reconnect data sources to your Excel / SharePoint / Dataverse environment
+
+### 2. Power Automate
+- Go to **My Flows → Import**
+- Upload `send_rsvp_reminder_flow.zip`
+- Update Outlook and Power BI connections as needed
+
+### 3. Power BI (Optional)
+- Open `event_rsvp_data_sample.pbix`
+- Point to the included CSV in the `data/` folder
+
+---
+
+## 📸 Screenshots
+
+![Home Screen](screenshots/home_screen.png)  
+*Home screen with organizer/location-based mailer options*
+
+![Filtering Screen](screenshots/filtering_screen.png)  
+*Filtering attendees and sending personalized RSVP reminders*
+
+---
+
+## 👤 Author
+
+**Garry Roque Fernandes**  
+Business Intelligence Analyst  
+📍 Exeter, UK  
+📧 garryfernandes2@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/garryfernandes2)
+
+---
+
+## 📝 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 🙌 Contributions & Feedback
+
+Have suggestions or want to use this logic in a new domain? Feel free to fork this repo, open issues, or reach out on LinkedIn.
+
 
 
