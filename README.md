@@ -79,7 +79,7 @@ The core logic of this app — **filter data + send automated emails** — makes
 ![Filtering Screen](https://github.com/GarryRoque/powerapps-event-rsvp-mailer/blob/main/Screenshots/PowerApp2.PNG)  
 *Filtering attendees and sending personalized RSVP reminders*
 
-![Outlook Screen](https://github.com/GarryRoque/powerapps-event-rsvp-mailer/blob/main/Screenshots/PowerApp2.PNG)  
+![Outlook Screen](https://github.com/GarryRoque/powerapps-event-rsvp-mailer/blob/main/Screenshots/Mail.PNG)  
 *Mails sent to myself for now as we used dummy emails. the mails can go to dynamic emails*
 ---
 
