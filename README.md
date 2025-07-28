@@ -71,25 +71,6 @@ The core logic of this app — **filter data + send automated emails** — makes
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Power App
-- Open Power Apps Studio
-- Click on **Apps → Import Canvas App**
-- Upload `event_mailer.msapp`
-- Reconnect data sources to your Excel / SharePoint / Dataverse environment
-
-### 2. Power Automate
-- Go to **My Flows → Import**
-- Upload `send_rsvp_reminder_flow.zip`
-- Update Outlook and Power BI connections as needed
-
-### 3. Power BI (Optional)
-- Open `event_rsvp_data_sample.pbix`
-- Point to the included CSV in the `data/` folder
-
----
-
 ## 📸 Screenshots
 
 ![Home Screen](screenshots/home_screen.png)  
