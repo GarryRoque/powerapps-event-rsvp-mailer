@@ -73,7 +73,7 @@ The core logic of this app — **filter data + send automated emails** — makes
 
 ## 📸 Screenshots
 
-![Home Screen](screenshots/home_screen.png)  
+![Home Screen](https://github.com/GarryRoque/powerapps-event-rsvp-mailer/blob/main/Screenshots/PowerApps.PNG) 
 *Home screen with organizer/location-based mailer options*
 
 ![Filtering Screen](screenshots/filtering_screen.png)  
