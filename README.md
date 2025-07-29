@@ -58,7 +58,8 @@ The core logic of this app — **filter data + send automated emails** — makes
 | **Excel (Mock Data)** | Sample dataset used in this GitHub version (replaceable with live data) |
 
 
-https://github.com/GarryRoque/powerapps-event-rsvp-mailer/blob/main/Screenshots/Basic%20Data%20Flow.PNG
+![Data_Flow](https://github.com/GarryRoque/powerapps-event-rsvp-mailer/blob/main/Screenshots/Basic%20Data%20Flow.PNG) 
+*Basic data flow*
 
 
 ## 📁 Project Structure
